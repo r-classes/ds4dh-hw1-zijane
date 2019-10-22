@@ -1,0 +1,2 @@
+mtcars
+write.csv(mtcars,"C:/Users/Jane/Documents/R_projects/mtcars.csv")
